@@ -3,4 +3,4 @@
 
 |날짜|링크|설명|
 |---------|---------------|-------------------|
-|테스트1|테스트2|테스트3|
+|2022.07.20|[링크](Jin409/peace-piece-setting)|@Builder, DTO, @DynamicInsert, Enum, @Service, Swagger, pipenv|
