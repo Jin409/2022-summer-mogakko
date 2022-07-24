@@ -4,4 +4,4 @@
 |날짜|링크|설명|
 |---------|---------------|-------------------|
 |2022.07.20|[링크](https://heethehope.tistory.com/entry/TIL-20220720-Builder-DTO-DynamicInsert-Enum-Service-Swagger-pipenv)|@Builder, DTO, @DynamicInsert, Enum, @Service, Swagger, pipenv|
-|2022.07.23|[링크](https://heethehope.tistory.com/entry/TIL-20220723-Builder-%EC%88%98%EC%A0%95-%EB%B6%88%EA%B0%80-Repository-python-managepy-migrate-run-syncdb)|Builder 수정 불가, @Repository, python manage.py migrate --run-syncdb|
+|2022.07.23|[링크](https://heethehope.tistory.com/entry/TIL-20220723-DiscriminatorValue-DiscriminatorColumn-Enumerated%EC%9D%98-%ED%83%80%EC%9E%85-N1-%EB%AC%B8%EC%A0%9CCSRF-token-missing-or-incorrectJSON-%EC%84%9C%EB%B2%84-%EA%B5%AC%EC%B6%95|
