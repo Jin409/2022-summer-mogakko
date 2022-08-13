@@ -8,3 +8,4 @@
 |2022.07.30|[링크](https://heethehope.tistory.com/entry/TIL-20220730-RestControllerAdvice-jsonIgnore-ConcurrentHashMap-HashMap-CommandLineRunner-ApplicationRunner)|@RestControllerAdvice, @jsonIgnore, ConcurrentHashMap, HashMap, CommandLineRunner & ApplicationRunner|
 |2022.08.03|[링크](https://heethehope.tistory.com/entry/TIL-20220803-%ED%8E%98%EC%9D%B4%EB%A1%9C%EB%93%9C-CORS-JWT-HTTP-%ED%97%A4%EB%8D%94-set-cookie-%EC%9E%A5%EA%B3%A0%EC%9D%98-Lazy-loading)|페이로드, CORS, JWT, HTTP 헤더 set-cookie, 장고의 Lazy-loading|
 |2022.08.10|[링크](https://heethehope.tistory.com/entry/TIL-20220810-Exception-Handler-%EA%B5%AC%ED%98%84-JsonInclude)|Exception Handler 구현, JsonInclude|
+|2022.08.13|[링크](https://heethehope.tistory.com/entry/%EC%9E%90%EB%B0%94%EC%9D%98-%EC%A0%95%EC%84%9D-%EC%9E%85%EC%B6%9C%EB%A0%A5-IO)|자바의 정석 입출력 I/O|
