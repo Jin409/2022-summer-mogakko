@@ -10,4 +10,4 @@
 |2022.08.10|[링크](https://heethehope.tistory.com/entry/TIL-20220810-Exception-Handler-%EA%B5%AC%ED%98%84-JsonInclude)|Exception Handler 구현, JsonInclude|
 |2022.08.13|[링크](https://heethehope.tistory.com/entry/%EC%9E%90%EB%B0%94%EC%9D%98-%EC%A0%95%EC%84%9D-%EC%9E%85%EC%B6%9C%EB%A0%A5-IO)|자바의 정석 입출력 I/O|
 |2022.08.17|[링크](https://heethehope.tistory.com/entry/TIL-20220817-GraphQL-Rest-gRPC)|graphQL, Rest, gRPC|
-
+|2022.08.24|[링크](https://heethehope.tistory.com/entry/TIL-20220824-GCP-%EB%A1%9C-%EC%9E%A5%EA%B3%A0-mysql-%EC%84%9C%EB%B2%84-%EC%97%B0%EA%B2%B0)|gcp 로 장고, mysql 서버 연결|
